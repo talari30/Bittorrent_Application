@@ -104,8 +104,6 @@ IntelliJ IDEA (or any preferred IDE)
 Installation Steps
 Clone the repository:
 
-**git clone https://github.com/Abhinavasai/BitTorrent-Application---Java/tree/feature-intrestedAlgo**
-
 Open Project: Import the project into IntelliJ IDEA or any Java IDE.
 
 Configure Build: Ensure the project's dependencies and JDK are configured correctly.
